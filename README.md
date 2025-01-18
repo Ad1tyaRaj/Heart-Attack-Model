@@ -37,7 +37,7 @@ HeartAttackPrediction/
    - RobustScaler to handle outliers.
 
 ## Future Goals
-- Improve accuracy to 85% or higher.
+- Improve accuracy to 90% or higher.
 - Experiment with ensemble methods (e.g., Random Forest, Gradient Boosting).
 - Deploy the model using a web app (e.g., Flask, FastAPI).
 - Conduct hyperparameter tuning for further optimization.
@@ -68,7 +68,3 @@ HeartAttackPrediction/
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Would you like help generating Python scripts for data preprocessing or feature engineering?
