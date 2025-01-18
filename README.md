@@ -1,7 +1,3 @@
-Creating a Heart Attack prediction model with a 75% accuracy is a strong start, and refining it through feature engineering and scaling can significantly enhance its performance. Here's how you can structure your README file and project description for GitHub:
-
----
-
 # Heart Attack Prediction Model
 
 ## Overview
